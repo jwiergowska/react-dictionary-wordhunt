@@ -38,7 +38,7 @@ function App() {
         color: grey[900],
       },
       "&$checked + $track": {
-        backgroundColor: blue,
+        backgroundColor: grey[500],
       },
     },
     checked: {},
